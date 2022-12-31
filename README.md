@@ -4,6 +4,9 @@ Your challenge is to build a Node.js command-line application that takes in info
 
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video **and** add it to the README of your project.
 
+Access to the index.html test through the [following link](https://drive.google.com/file/d/1cRBv1r1XgoVgUmOcIjnZcnsRE8gLx4dM/view?usp=sharing)
+Access to the js test through the [following link](https://drive.google.com/file/d/1Lv-wVnXSl_iYD0q4nW8zrfYEkTOJMy1q/view?usp=sharing)
+
 **Note**: There is no starter code for this assignment.
 
 ## User Story
